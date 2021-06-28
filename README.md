@@ -1,10 +1,14 @@
-# mks-robin-nano-v3-marlin-2.0.8
-My personal configuration using a MKS Robin Nano v3 board on an Ender 3 with a BMG Extruder. Using Marlin 2.0.8.
+# mks-robin-nano-v3-custom-marlin
+My personal configuration for the MKS Robin Nano v3 board.
+Printer: Ender 3
+Extruder: BMG  Clone
+Marlin Version: Marlin 2.0.9.1
 
-## Features ##
+## Activated Features and Settings ##
 - Bltouch as Z-Endstop
-- BMG-Clone extruder steps
-- Easy PID tunning
-- S-Curve acceleration
+- BMG Clone extruder steps (410)
+- Easy PID tunning on LCD Screen
+- S-Curve Acceleration
 - Junction Deviation
-- USB stick
+- USB stick only enabled
+- Advanced Parking Feature
