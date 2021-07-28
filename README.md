@@ -8,7 +8,7 @@ My personal configuration for the MKS Robin Nano v3 board.
 - Bltouch as Z-Endstop
 - BMG Clone extruder steps (410)
 - Easy PID tunning on LCD Screen
-- S-Curve Acceleration
+- Linear Advance
 - Junction Deviation
 - USB stick only enabled
 - Advanced Parking Feature
